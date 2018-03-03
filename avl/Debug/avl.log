@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\barcelona\documents\ucb\4to semestre\estructuras de datos y algoritmos\avl\avl\main.cpp(9): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\barcelona\documents\ucb\4to semestre\estructuras de datos y algoritmos\avl\avl\avl.h(261): warning C4715: 'AVL<int>::encontrarMin': no todas las rutas de acceso de control devuelven un valor
+c:\users\barcelona\documents\ucb\4to semestre\estructuras de datos y algoritmos\avl\avl\avl.h(249): warning C4715: 'AVL<int>::encontrarMax': no todas las rutas de acceso de control devuelven un valor
+c:\users\barcelona\documents\ucb\4to semestre\estructuras de datos y algoritmos\avl\avl\avl.h(201): warning C4715: 'AVL<int>::buscar': no todas las rutas de acceso de control devuelven un valor
+  avl.vcxproj -> C:\Users\barcelona\Documents\UCB\4to Semestre\Estructuras de Datos y Algoritmos\avl\Debug\avl.exe
